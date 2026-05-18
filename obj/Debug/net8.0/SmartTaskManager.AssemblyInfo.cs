@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartTaskManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6c9ce8d6a9da913695b0308da383cc3ec0601c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartTaskManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartTaskManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
